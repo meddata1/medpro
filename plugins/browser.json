@@ -1,0 +1,21 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "ir.med.data304"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "ir.med.data304"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "ir.med.data304"
+        }
+    },
+    "dependent_plugins": {}
+}
