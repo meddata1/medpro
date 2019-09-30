@@ -20,6 +20,10 @@ routes = [
     path: '/2/',
     url: './pages/2.html',
   },
+   {
+    path: '/3/',
+    url: './pages/3.html',
+  },
   {
     path: '/catalog/',
     componentUrl: './pages/catalog.html',
