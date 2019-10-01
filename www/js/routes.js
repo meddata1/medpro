@@ -25,6 +25,90 @@ routes = [
     path: '/3/',
     url: './pages/3.html',
   },
+      
+    {
+    path: '/4/',
+    url: './pages/4.html',
+  },
+      {
+    path: '/5/',
+    url: './pages/5.html',
+  },
+    
+    {
+    path: '/6/',
+    url: './pages/6.html',
+  },
+      
+    {
+    path: '/7/',
+    url: './pages/7.html',
+  },
+      {
+    path: '/8/',
+    url: './pages/8.html',
+  },
+    
+    {
+    path: '/9/',
+    url: './pages/9.html',
+  },
+      
+    {
+    path: '/10/',
+    url: './pages/10.html',
+  },
+      {
+    path: '/11/',
+    url: './pages/11.html',
+  },
+    
+    {
+    path: '/12/',
+    url: './pages/12.html',
+  },
+      
+    {
+    path: '/13/',
+    url: './pages/13.html',
+  },
+      {
+    path: '/14/',
+    url: './pages/14.html',
+  },
+    
+    {
+    path: '/15/',
+    url: './pages/15.html',
+  },
+      
+    {
+    path: '/16/',
+    url: './pages/16.html',
+  },
+      {
+    path: '/17/',
+    url: './pages/17.html',
+  },
+    
+    {
+    path: '/18/',
+    url: './pages/18.html',
+  },
+      
+    {
+    path: '/19/',
+    url: './pages/19.html',
+  },
+      {
+    path: '/20/',
+    url: './pages/20.html',
+  },
+    
+    {
+    path: '/21/',
+    url: './pages/21.html',
+  },
   {
     path: '/catalog/',
     componentUrl: './pages/catalog.html',
