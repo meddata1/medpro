@@ -11,7 +11,11 @@ routes = [
     path: '/edlist/',
     url: './pages/edlist.html',
   },
-    
+  {
+    path: '/general/',
+    url: './pages/general.html',
+    }
+  ,
     {
     path: '/1/',
     url: './pages/1.html',
