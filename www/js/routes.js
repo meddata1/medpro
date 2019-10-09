@@ -106,7 +106,23 @@ routes = [
     path: '/genital2/',
     url: './pages/genital2.html',
   },
-    {
+   {
+    path: '/skinlist/',
+    url: './pages/skinlist.html',
+  },
+   {
+    path: '/skin1/',
+    url: './pages/skin1.html',
+  },
+   {
+    path: '/skin2/',
+    url: './pages/skin2.html',
+  },
+   {
+    path: '/ortolist/',
+    url: './pages/ortolist.html',
+  },
+      {
     path: '/1/',
     url: './pages/1.html',
   },
