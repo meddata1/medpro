@@ -36,6 +36,26 @@ routes = [
     url: './pages/Miscellaneouslist.html',
   },
   {
+    path: '/Ophthalmiclist/',
+    url: './pages/Ophthalmiclist.html',
+    },
+   {
+    path: '/opht1/',
+    url: './pages/opht1.html',
+    },
+   {
+    path: '/opht2/',
+    url: './pages/opht2.html',
+    },
+   {
+    path: '/opht3/',
+    url: './pages/opht3.html',
+    },
+   {
+    path: '/opht4/',
+    url: './pages/opht4.html',
+    },
+    {
     path: '/general/',
     url: './pages/general.html',
     },
