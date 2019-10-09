@@ -11,6 +11,22 @@ routes = [
     path: '/edlist/',
     url: './pages/edlist.html',
   },
+   {
+    path: '/Circulationlist/',
+    url: './pages/Circulationlist.html',
+  },
+   {
+    path: '/airwaylist/',
+    url: './pages/airwaylist.html',
+  },
+   {
+    path: '/Abdomenlist/',
+    url: './pages/Abdomenlist.html',
+  },
+   {
+    path: '/Miscellaneouslist/',
+    url: './pages/Miscellaneouslist.html',
+  },
   {
     path: '/general/',
     url: './pages/general.html',
