@@ -20,6 +20,10 @@ routes = [
     url: './pages/cardiacmonitor.html',
   },
    {
+    path: '/Neurologiclist/',
+    url: './pages/Neurologiclist.html',
+  },
+   {
     path: '/airwaylist/',
     url: './pages/airwaylist.html',
   },
