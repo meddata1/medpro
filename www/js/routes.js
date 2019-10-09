@@ -55,7 +55,35 @@ routes = [
     path: '/opht4/',
     url: './pages/opht4.html',
     },
-    {
+  {
+    path: '/Otolist/',
+    url: './pages/Otolist.html',
+    },
+  {
+    path: '/Oto1/',
+    url: './pages/Oto1.html',
+    },
+  {
+    path: '/Oto2/',
+    url: './pages/Oto2.html',
+    },
+  {
+    path: '/Oto3/',
+    url: './pages/Oto3.html',
+    },
+  {
+    path: '/Oto4/',
+    url: './pages/Oto4.html',
+    },
+  {
+    path: '/Oto5/',
+    url: './pages/Oto5.html',
+    },
+  {
+    path: '/Oto6/',
+    url: './pages/Oto6.html',
+    },
+      {
     path: '/general/',
     url: './pages/general.html',
     },
