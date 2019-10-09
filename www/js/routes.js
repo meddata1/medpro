@@ -83,10 +83,29 @@ routes = [
     path: '/Oto6/',
     url: './pages/Oto6.html',
     },
+   {
+    path: '/abdo1/',
+    url: './pages/abdo1.html',
+    },
       {
     path: '/general/',
     url: './pages/general.html',
     },
+ 
+    {
+    path: '/genitolist/',
+    url: './pages/genitolist.html',
+  },
+  
+    {
+    path: '/genital1/',
+    url: './pages/genital1.html',
+  },
+  
+    {
+    path: '/genital2/',
+    url: './pages/genital2.html',
+  },
     {
     path: '/1/',
     url: './pages/1.html',
