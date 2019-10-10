@@ -8,4 +8,9 @@
 .navbar .title{
 	font-family: byekan, arial , tahoma;
 	}
+.responsive {
+  width: 100%;
+  max-width: 400px;
+  height: auto;
+}
 
