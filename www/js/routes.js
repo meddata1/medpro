@@ -9,8 +9,9 @@ routes = [
   },
   {
     path: '/photo/',
-    url: './pages/photo.html',
+    componentUrl: './pages/photo.html',
   },
+  
     {
     path: '/edlist/',
     url: './pages/edlist.html',
