@@ -7,6 +7,10 @@ routes = [
     path: '/about/',
     url: './pages/about.html',
   },
+  {
+    path: '/photo/',
+    url: './pages/photo.html',
+  },
     {
     path: '/edlist/',
     url: './pages/edlist.html',
