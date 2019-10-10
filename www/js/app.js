@@ -18,8 +18,8 @@ var app  = new Framework7({
       products: [
         {
           id: '1',
-          title: 'Apple iPhone 8',
-          description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi tempora similique reiciendis, error nesciunt vero, blanditiis pariatur dolor, minima sed sapiente rerum, dolorem corrupti hic modi praesentium unde saepe perspiciatis.'
+          title: 'اپلیکیشن مددیتا ',
+          description: 'نسخه نویسی،اوردرنویسی و اطلاعات مورد نیاز پزشکان در طرح و کار'
         },
         {
           id: '2',
@@ -66,4 +66,12 @@ $$('#my-login-screen .login-button').on('click', function () {
 
   // Alert username and password
   app.dialog.alert('Username: ' + username + '<br>Password: ' + password);
+});
+
+// fast click 
+var app = new Framework7({
+  touch: {
+    // Enable fast clicks
+    fastClicks: true,
+  }
 });
