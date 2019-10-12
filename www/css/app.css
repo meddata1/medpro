@@ -18,8 +18,8 @@
     overflow: hidden;
     height: 0;
     font-size: 14px;
-    transition-duration: .1s;
-    background-color: #969595 ;
+    transition-duration: .05s;
+    background-color: #3e3939cf ;
 	color: #ffffff ;
-	padding: 4 4 4 4px;
+	padding: 5 px;
 }
