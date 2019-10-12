@@ -13,4 +13,12 @@
   max-width: 400px;
   height: auto;
 }
-
+.accordion-item-content {
+    position: relative;
+    overflow: hidden;
+    height: 0;
+    font-size: 14px;
+    transition-duration: .1s;
+    background-color: #1111;
+	color: #111 ;
+}
