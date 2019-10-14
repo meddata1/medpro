@@ -1,0 +1,17 @@
+{
+	"dir" : "rtl",
+	"lang" : "fa",
+	"name" : "پروسیجرهای پزشکی",
+	"scope" : "/medpro/www/",
+	"display" : "standalone",
+	"start_url" : "https://meddata1.github.io/medpro/www/",
+	"short_name" : "",
+	"theme_color" : "#2196f3",
+	"description" : "",
+	"orientation" : "any",
+	"background_color" : "transparent",
+	"related_applications" : "",
+	"prefer_related_applications" : "false",
+	"icons" : [],
+	"generated" : "true"
+}
